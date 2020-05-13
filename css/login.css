@@ -1,0 +1,54 @@
+html, body {
+    background-color: #2b2b2b;
+    color: #CCA665;
+}
+
+.form-control {
+    background-color: #2b2b2b;
+    color: #CCA665;
+    border: 0px;
+}
+
+.logo{
+    padding-top: 3em;
+    max-height: 400px;
+}
+
+.submit{
+    background-color: transparent;
+    color: #CCA665;
+    border: 0px;
+    text-decoration: none;
+}
+
+.submit:hover{
+    text-decoration: underline;
+}
+
+.login_form{
+    padding-top: 6em;
+}
+
+.join{
+    padding-top: 7em;
+}
+
+/* unvisited link */
+a:link {
+    color: #CCA665;
+}
+
+/* visited link */
+a:visited {
+    color: #CCA665;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+}
+
+/* selected link */
+a:active {
+    color: #CCA665;
+}
